@@ -1,1 +1,1 @@
-# KarelFix
+This code is for studying, I am not responsible for anything happening to your grades or quality, or effeciency of code. This is for people to study how the code is written. Copying is not reccomended. But try to study the code to understand!
